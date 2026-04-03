@@ -1,6 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=200&section=header&text=Manuel%20Salcedo&fontSize=50&fontAlignY=38&desc=Software%20Engineer%20%7C%20Founder%20%40%20PageDraft%20Studio&descAlignY=58&descSize=20&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=200&section=header&text=Manuel%20Salcedo&fontSize=50&fontAlignY=38&desc=Software%20Engineer%20%7C%20Founder%20%40%20_PageDraft%20Studio&descAlignY=58&descSize=20&fontColor=ffffff&animation=fadeIn" width="100%"/>
 </div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ManuelSalcedo2770/ManuelSalcedo2770/main/logo_white.svg" height="35" alt="PageDraft Studio"/>
+</div>
+<br>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=800&height=60&lines=Full-Stack+Development;Cloud-Based+POS+%26+Inventory+Systems;Database+Architecture+%26+SQL+Optimization;Founder+%40+PageDraft+Studio" alt="Typing SVG" />
@@ -21,21 +26,25 @@
 ## `// STATS & ACHIEVEMENTS`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManuelSalcedo2770&show_icons=true&theme=radical&hide_border=true&bg_color=0D0F1A&title_color=A855F7&icon_color=EC4899&text_color=C0CAF5&ring_color=7C3AED" alt="Stats" height="160"/>
-  &nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManuelSalcedo2770&theme=radical&hide_border=true&background=0D0F1A&ring=A855F7&fire=EC4899&currStreakLabel=A855F7&sideLabels=C0CAF5&dates=8B949E" alt="Streak" height="160"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelSalcedo2770&layout=compact&theme=radical&hide_border=true&bg_color=0D0F1A&title_color=A855F7&text_color=C0CAF5" alt="Top Languages" height="140"/>
+  <img src="https://github-readme-stats-ten-omega-20.vercel.app/api?username=ManuelSalcedo2770&show_icons=true&theme=radical&hide_border=true&bg_color=0D0F1A&title_color=A855F7&icon_color=EC4899&text_color=C0CAF5&ring_color=7C3AED&rank_icon=github" alt="Stats" height="180"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManuelSalcedo2770&theme=tokyo-night&bg_color=0D0F1A&color=A855F7&line=7C3AED&point=EC4899&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
+  <img src="https://github-readme-stats-ten-omega-20.vercel.app/api/top-langs/?username=ManuelSalcedo2770&layout=compact&theme=radical&hide_border=true&bg_color=0D0F1A&title_color=A855F7&text_color=C0CAF5&langs_count=6" alt="Top Languages" height="140"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManuelSalcedo2770&theme=tokyo-night&bg_color=0D0F1A&color=A855F7&line=7C3AED&point=EC4899&area=true&hide_border=true&hide_title=true" width="95%" alt="Activity Graph"/>
 </div>
 
 <br>
@@ -87,14 +96,52 @@
 
 ## `// PAGEDRAFT PRODUCT CATALOG`
 
+<br>
+
 <div align="center">
 
 | Product | Description |
-| :---: | :--- |
+| :--- | :--- |
 | **DraftPay** | Cloud-based Point of Sale (POS) platform for commercial management. |
 | **DraftStock** | Advanced system for inventory administration and control. |
 | **DraftMed** | Scalable platform for appointment scheduling and management. |
 
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24&height=3&width=80%" width="80%"/>
+</div>
+
+<br>
+
+## `// CONNECT`
+
+<div align="center">
+  <a href="www.linkedin.com/in/manuel-salcedo-33762927b">
+    <img src="https://img.shields.io/badge/LinkedIn-0D0F1A?style=for-the-badge&logo=linkedin&logoColor=60A5FA" />
+  </a>
+  <a href="mailto:manuelsalcedo2770@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0D0F1A?style=for-the-badge&logo=gmail&logoColor=EC4899" />
+  </a>
+  <a href="https://pagedraftstudio.com">
+    <img src="https://img.shields.io/badge/PageDraft_Studio-0D0F1A?style=for-the-badge&logo=vercel&logoColor=A855F7" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ManuelSalcedo2770&style=for-the-badge&color=7C3AED&labelColor=0D0F1A&label=PROFILE+VIEWS" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ManuelSalcedo2770/ManuelSalcedo2770/main/logo_white.svg" height="30" alt="PageDraft Studio"/>
+  <br>
+  <sub>Built by Manuel Salcedo</sub>
 </div>
 
 <br>

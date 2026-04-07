@@ -119,7 +119,7 @@
 ## `// CONNECT`
 
 <div align="center">
-  <a href="www.linkedin.com/in/manuel-salcedo-33762927b">
+  <a href="[www.linkedin.com/in/manuel-salcedo-33762927b](https://www.linkedin.com/in/manuel-salcedo-33762927b/)">
     <img src="https://img.shields.io/badge/LinkedIn-0D0F1A?style=for-the-badge&logo=linkedin&logoColor=60A5FA" />
   </a>
   <a href="mailto:manuelsalcedo2770@gmail.com">

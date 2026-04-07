@@ -119,14 +119,14 @@
 ## `// CONNECT`
 
 <div align="center">
-  <a href="[www.linkedin.com/in/manuel-salcedo-33762927b](https://www.linkedin.com/in/manuel-salcedo-33762927b/)">
-    <img src="https://img.shields.io/badge/LinkedIn-0D0F1A?style=for-the-badge&logo=linkedin&logoColor=60A5FA" />
+  <a href="https://www.linkedin.com/in/manuel-salcedo-33762927b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0D0F1A?style=for-the-badge&logo=linkedin&logoColor=60A5FA" alt="LinkedIn" />
   </a>
   <a href="mailto:manuelsalcedo2770@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0D0F1A?style=for-the-badge&logo=gmail&logoColor=EC4899" />
+    <img src="https://img.shields.io/badge/Email-0D0F1A?style=for-the-badge&logo=gmail&logoColor=EC4899" alt="Email" />
   </a>
   <a href="https://pagedraftstudio.com">
-    <img src="https://img.shields.io/badge/PageDraft_Studio-0D0F1A?style=for-the-badge&logo=vercel&logoColor=A855F7" />
+    <img src="https://img.shields.io/badge/PageDraft_Studio-0D0F1A?style=for-the-badge&logo=vercel&logoColor=A855F7" alt="PageDraft Studio" />
   </a>
 </div>
 

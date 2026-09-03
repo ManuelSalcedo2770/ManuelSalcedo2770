@@ -44,7 +44,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManuelSalcedo2770&theme=tokyo-night&bg_color=0D0F1A&color=A855F7&line=7C3AED&point=EC4899&area=true&hide_border=true&hide_title=true" width="95%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph-phi-six.vercel.app/graph?username=ManuelSalcedo2770&theme=tokyo-night&bg_color=0D0F1A&color=A855F7&line=7C3AED&point=EC4899&area=true&hide_border=true&hide_title=true" width="95%" alt="Activity Graph"/>
 </div>
 
 <br>

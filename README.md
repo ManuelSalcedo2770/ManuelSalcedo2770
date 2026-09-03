@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=200&section=header&text=Manuel%20Salcedo&fontSize=50&fontAlignY=38&desc=Software%20Engineer%20%7C%20Founder%20%40%20_PageDraft%20Studio&descAlignY=58&descSize=20&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7C3AED,EC4899&height=200&section=header&text=Manuel%20Salcedo&fontSize=50&fontAlignY=38&desc=Software%20Engineer%20%7C%20Founder%20%40%20_PageDraft%20Studio&descAlignY=58&descSize=20&fontColor=ffffff&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
@@ -18,7 +18,7 @@
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24&height=3&width=80%" width="80%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=7C3AED,EC4899&height=3&width=80%" width="80%"/>
 </div>
 
 <br>
@@ -50,7 +50,7 @@
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24&height=3&width=80%" width="80%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=7C3AED,EC4899&height=3&width=80%" width="80%"/>
 </div>
 
 <br>
@@ -89,7 +89,7 @@
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24&height=3&width=80%" width="80%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=7C3AED,EC4899&height=3&width=80%" width="80%"/>
 </div>
 
 <br>
@@ -111,7 +111,7 @@
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24&height=3&width=80%" width="80%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=7C3AED,EC4899&height=3&width=80%" width="80%"/>
 </div>
 
 <br>
